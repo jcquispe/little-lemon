@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Little Lemon</string>
+    <string name="title">Little Lemon</string>
+    <string name="location">Chicago</string>
+    <string name="description">We are a family-owned Mediterranean restaurant, focused on traditional recipes served with a modern twist.</string>
+    <string name="order_button_text">Order Take Away</string>
+    <string name="weekly_special">Weekly Special</string>
+    <string name="add_for">Add for</string>
+    <string name="search">Search</string>
+    <string name="search_phrase">Enter search phrase</string>
+    <string name="category_title">ORDER FOR DELIVERY!</string>
+    <string name="greeting">Let\'s get to know you</string>
+    <string name="personal_information">Personal information</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email">Email</string>
+    <string name="registration_unsuccessful">Registration unsuccessful. Please enter all data</string>
+    <string name="registration_successful">Registration successful!</string>
+    <string name="register">Register</string>
+    <string name="logout">Log out</string>
+    <string name="api_url">https://raw.githubusercontent.com/Meta-Mobile-Developer-PC/Working-With-Data-API/main/menu.json</string>
+</resources>
